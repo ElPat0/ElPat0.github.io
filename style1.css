@@ -1,5 +1,7 @@
-.headbar{color: green;
+.headbar{color: white;
     font-size: 30px;
+    background-color: teal;
+    padding: 30px;
 }
 .phead{color: orange;
     font-size: 24px;
