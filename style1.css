@@ -2,6 +2,7 @@
     font-size: 30px;
     background-color: teal;
     padding: 30px;
+    margin-left: 120px;
 }
 .name{color: white;
     font-size: 30px;
@@ -14,11 +15,19 @@
 }
 #mbg{background-image: url(white-waves.png);
     text-align: center;
-    width: 960px;
+    width: 100%x;
 }
 .top{background-color: white;
     height: 90px;
-    width: 960px;
+    width: 100%;
+    padding-right: 30px;
+    border-bottom-color: black;
+    border-bottom-width: 10px;
+}
+.mid{background-color: white;
+    width: 900px;
+    height: 700px;
+    margin-left: 15%;
 }
 .buttons{font-size: 20px;
     color: gray;
