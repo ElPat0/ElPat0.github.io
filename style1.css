@@ -3,10 +3,20 @@
     background-color: teal;
     padding: 30px;
 }
+.name{color: white;
+    font-size: 30px;
+    background-color: teal;
+    padding: 30px;
+    width: 150px;
+
+}
 .phead{color: orange;
     font-size: 24px;
 }
 #mbg{background-image: url(white-waves.png);
     align-content: center;
     width: 960px;
+}
+.top{background-color: white;
+height: 60px;
 }
