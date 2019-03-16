@@ -8,15 +8,29 @@
     background-color: teal;
     padding: 30px;
     width: 150px;
-
 }
 .phead{color: orange;
     font-size: 24px;
 }
 #mbg{background-image: url(white-waves.png);
-    align-content: center;
+    text-align: center;
     width: 960px;
 }
 .top{background-color: white;
-height: 60px;
+    height: 90px;
+    width: 960px;
+}
+.buttons{color: gray;
+    padding: 30px;
+}
+.buttons:hover{color:white;
+background-color: teal;
+}
+.buttons:focus{color: blue;
+background-color: white;
+}
+.buttons:active{color: red;
+background-color: paleturquoise;
+}
+.buttons{float: right;
 }
