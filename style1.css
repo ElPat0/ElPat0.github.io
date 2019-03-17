@@ -52,4 +52,14 @@ body{ display: flex;
 .content{flex: 1 0 auto;
 }
 .footer{flex-shrink: 0;
+    height: 5%;
+    background-color: gray;
 }
+.paragraph{text-align: center;
+}
+.img{border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin: 25px;
+  }
